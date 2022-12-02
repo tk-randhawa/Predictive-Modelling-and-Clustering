@@ -1,10 +1,10 @@
 This project was for a previous data science assignment -- see the instructions for the assignment below:
 
 
-INSTRUCTIONS:
-• Please complete the below exercises using Python in a Jupyter notebook.
-• For the SQL exercises (#3), include your query and results. You do not need to query this dataset directly
-from the notebook.
+INSTRUCTIONS:  
+ • Please complete the below exercises using Python in a Jupyter notebook.  
+ • For the SQL exercises (#3), include your query and results. You do not need to query this dataset directly
+from the notebook.  
 
 1. Consider data set 1 (ds1.csv). The data set comprises features (the Five xs) along with three sequences
 that may or may not be generated from the features (3 ys).

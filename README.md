@@ -1,4 +1,4 @@
-This project was for a previous data science assignment -- see the instructions for the assignment below:
+This project was for a previous data science assignment -- see the instructions for the assignment below. The task was very vague, and no context on the data was provided, so it was a very interesting project!
 
 
 INSTRUCTIONS:  
